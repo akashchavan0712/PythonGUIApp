@@ -1,0 +1,25 @@
+**********************************************
+
+		SKY LAPTOP STORE
+
+Laptop Name 	 Price 	      Quantity
+**********************************************
+
+1) Macbook Air 	Rs.690000	1 unit
+2) Macbook Pro`	Rs.780000	1 unit
+
+Accessories			
+
+1) Wireless Mouse
+2) Wireless Keyboard			
+
+**********************************************
+
+Total		Rs.147000	2 units
+
+**********************************************
+
+Discount 	5%
+Final Cost	Rs.139650
+
+**********************************************
